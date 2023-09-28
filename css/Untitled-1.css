@@ -1,0 +1,22 @@
+body{
+    margin: 0%;
+}
+
+
+.layout{
+    width: 100%;
+   
+}
+.section_01 table img {
+height: auto;
+}
+.section_01 table  {
+  height: auto;
+    }
+    .section_02{
+        background-image: url(../images/pexels-genine-alyssa-pedrenoandrada-2403209.jpg);
+        height: 500;
+     background-repeat: no-repeat;
+     background-size: cover;
+        background-position: center;
+    }
